@@ -1,0 +1,52 @@
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-style: italic;
+}
+
+body {
+    background-color: #deebf7;
+    font: Georgia;
+    font-size: 14pt;
+    color: #08306b;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: double;
+    border-color: #3182bd;
+}
+
+figcaption {
+    color: gray;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+ol {
+    border: double;
+    color: #08306b
+}
+
+ol li {
+    list-style-position: inside;
+}
+
+p {
+    margin-left: 50px;
+}
+
+ol {
+    margin: none;
+    padding: none;
+}
+
+footer {
+    background-color: LightGray;
+    text-align: center;
+}
